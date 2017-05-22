@@ -1,0 +1,100 @@
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Window3.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\HalyavaHalyava\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Window3.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Window7.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Window14.resources
+C:\Users\GTA\Desktop\HalyavaHalyava\obj\Debug\Halyava.Window15.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window14.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window15.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window23.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window3.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window7.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window14.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window15.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window23.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window3.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window7.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window1.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window8.resources
+C:\Users\GTA\Desktop\HalyavaHalyava — копия — копия — копия\obj\Debug\Halyava.Window4.resources
+D:\Проект\HalyavaHalyava\bin\Debug\Halyava.exe.config
+D:\Проект\HalyavaHalyava\bin\Debug\Halyava.exe
+D:\Проект\HalyavaHalyava\bin\Debug\Halyava.pdb
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window1.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Properties.Resources.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window14.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window15.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window23.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window3.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window4.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window7.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.Window8.resources
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.exe
+D:\Проект\HalyavaHalyava\obj\Debug\Halyava.pdb
+C:\Users\Glozer\Desktop\Halyava\bin\Debug\Halyava.exe.config
+C:\Users\Glozer\Desktop\Halyava\bin\Debug\Halyava.exe
+C:\Users\Glozer\Desktop\Halyava\bin\Debug\Halyava.pdb
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window1.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window14.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window15.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window23.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window3.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window4.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window7.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window8.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.exe
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.pdb
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window2.resources
+C:\Users\Glozer\Desktop\Halyava\obj\Debug\Halyava.Window6.resources
