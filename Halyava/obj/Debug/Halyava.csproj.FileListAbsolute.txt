@@ -1,0 +1,32 @@
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.exe.config
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava — копия\bin\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Form1.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.Window_8.resources
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.exe
+C:\Users\GTA\Desktop\Halyava — копия\obj\Debug\Halyava.pdb
+C:\Users\GTA\Desktop\Halyava\obj\Debug\Halyava.Window3.resources
+C:\Users\Admin\Desktop\Halyava\bin\Debug\Halyava.exe.config
+C:\Users\Admin\Desktop\Halyava\bin\Debug\Halyava.exe
+C:\Users\Admin\Desktop\Halyava\bin\Debug\Halyava.pdb
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.Form1.resources
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.Properties.Resources.resources
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.Window3.resources
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.Window_8.resources
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.exe
+C:\Users\Admin\Desktop\Halyava\obj\Debug\Halyava.pdb
